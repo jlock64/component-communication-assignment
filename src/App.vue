@@ -6,9 +6,7 @@
 </template>
 
 <script>
-import UserData from './components/UserData'
 export default {
-  components: {UserData},
   data() {
     return {
       user: {
